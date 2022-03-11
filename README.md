@@ -65,6 +65,7 @@ I always forget that I can group classes and elements this way
 
 - [W3Schools - How TO - Image Hover Overlay](https://www.w3schools.com/howto/howto_css_image_overlay.asp) - I was clueless about the hover on the image part so this was very helpful
 - [Image Hover Text Overlay Effect with HTML & CSS - Web Design Tutorial](https://www.youtube.com/watch?v=exb2ab72Xhs&ab_channel=dcode) - This video was huge on helping me with the hover part
+- [Box Shadow CSS Generator](https://cssgenerator.org/box-shadow-css-generator.html) - This helped me to understand which argument modifies what in box-shadow
 
 ## Author
 
